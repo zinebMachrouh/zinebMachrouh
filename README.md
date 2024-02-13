@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm @zinebMachrouh - Aspiring Full Stack Developer!</h1>
+<h1 align="center">👋 Hi, I'm @zinebMachrouh - Full Stack Developer!</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Student%20Developer-blue?style=flat-square" alt="Status: Student Developer">
