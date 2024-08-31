@@ -1,4 +1,4 @@
-# Hello, fellow coders! 👋
+# Hey, I'm Zineb Mac! 👋
 
 # 💫 About Me:
 🔭 I'm currently immersed in the world of full-stack development, contributing to impactful projects at YouCode.<br>🌱 Learning is a never-ending journey for me, and I'm currently diving deep into Java and Angular.<br>👯 I love collaborating with the brilliant minds around me, fostering a culture of knowledge sharing and growth.<br>🤔 My current tech interests revolve around [Java, Jakarta ee, Docker, Angular].<br>💬 Let's discuss all things web development, from frontend frameworks to backend databases!<br>📫 Connect with me via [LinkedIn](www.linkedin.com/in/zinebmachrouh).<br>
